@@ -8,7 +8,7 @@ console.log(apples > oranges);
 console.log(apples <= oranges);
 console.log(oranges > apples);
 
-//6
+//6 - 7 - 8 - 9 - 10
 
 console.log('--------------');
 let mangoes = 5;
